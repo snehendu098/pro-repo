@@ -22,6 +22,8 @@ On-chain event ticketing system built with Soroban smart contracts and a Next.js
 
 ## Project Structure
 
+
+
 ```
 test/
 ├── contracts/           # Soroban smart contracts (Rust)
@@ -119,3 +121,8 @@ The frontend connects to Freighter wallet for signing `buy_ticket` transactions.
 2. Switch to Testnet in Freighter settings
 3. Click "Connect Wallet" in the app header
 4. Click "Buy Ticket" on any event card to sign and submit a purchase tx
+
+# Screenshots
+<img width="1280" height="735" alt="image" src="https://github.com/user-attachments/assets/4ba1869b-b4da-4e45-af12-51783b62f1e7" />
+<img width="1280" height="738" alt="image" src="https://github.com/user-attachments/assets/4b489bcc-2755-4ec5-a314-a87956640c44" />
+
